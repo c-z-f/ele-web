@@ -1,5 +1,5 @@
 const state = () => ({
-
+  key: 'admin'
 })
 
 const mutations = {
